@@ -4,8 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   srcDir: 'app/',
 
-  css: ['~/assets/styles/main.scss'],
-
   app: {
     head: {
       title: 'Семейное дерево',
