@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "parentIds": [],
+    "spouseIds": [],
+    "firstName": "Погос",
+    "lastName": "Мовсесян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 2,
+    "parentIds": [1],
+    "spouseIds": [3],
+    "firstName": "Самсон Погосович",
+    "lastName": "Мовсесян",
+    "birthDate": "1911",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 3,
+    "parentIds": [],
+    "spouseIds": [2],
+    "firstName": "Аревгат Шириновна",
+    "lastName": "Манучарян",
+    "birthDate": "1913",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 4,
+    "parentIds": [2, 3],
+    "spouseIds": [],
+    "firstName": "Аркадий Самсонович",
+    "lastName": "Мовсесян",
+    "birthDate": "1932",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 5,
+    "parentIds": [4],
+    "spouseIds": [],
+    "firstName": "Ермоиня Аркадьевна",
+    "lastName": "Мовсесян",
+    "birthDate": "1964",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 6,
+    "parentIds": [4],
+    "spouseIds": [],
+    "firstName": "Сейеран Аркадьевич",
+    "lastName": "Мовсесян",
+    "birthDate": "1966",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 7,
+    "parentIds": [2, 3],
+    "spouseIds": [8],
+    "firstName": "Римма Самсоновна",
+    "lastName": "Мовсесян(Мелкумян)",
+    "birthDate": "1950",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 8,
+    "parentIds": [],
+    "spouseIds": [7],
+    "firstName": "Георгий",
+    "lastName": "Мелкумян",
+    "birthDate": "1946",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 9,
+    "parentIds": [7, 8],
+    "spouseIds": [10],
+    "firstName": "Олег Георгиевич",
+    "lastName": "Мелкумян",
+    "birthDate": "1986",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 10,
+    "parentIds": [],
+    "spouseIds": [9],
+    "firstName": "Ира",
+    "lastName": "Мелкумян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 11,
+    "parentIds": [9, 10],
+    "spouseIds": [],
+    "firstName": "Марат Олегович",
+    "lastName": "Мелкумян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 12,
+    "parentIds": [9, 10],
+    "spouseIds": [],
+    "firstName": "Леон Олегович",
+    "lastName": "Мелкумян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 13,
+    "parentIds": [9, 10],
+    "spouseIds": [],
+    "firstName": "Ангелина Олеговна",
+    "lastName": "Мелкумян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 14,
+    "parentIds": [7, 8],
+    "spouseIds": [15],
+    "firstName": "Жанна Георгиевна",
+    "lastName": "Мелкумян(Арутюнян)",
+    "birthDate": "1973",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 15,
+    "parentIds": [],
+    "spouseIds": [14],
+    "firstName": "Арам",
+    "lastName": "Арутюнян",
+    "birthDate": "1974",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 16,
+    "parentIds": [14, 15],
+    "spouseIds": [],
+    "firstName": "Роксана Арамовна",
+    "lastName": "Арутюнян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 17,
+    "parentIds": [14, 15],
+    "spouseIds": [18],
+    "firstName": "Элла Арамовна",
+    "lastName": "Мелкумян(Захарян)",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  },
+  {
+    "id": 18,
+    "parentIds": [],
+    "spouseIds": [17],
+    "firstName": "Муж",
+    "lastName": "Захарян",
+    "birthDate": "",
+    "deathDate": "",
+    "photo": null
+  }
+]
