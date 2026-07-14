@@ -22,15 +22,15 @@
         height="68"
         preserveAspectRatio="xMidYMid slice"
       />
-      <image
+      <!-- <image
         v-else
-        href="/avatar-placeholder.webp"
+        href="../../public/avatar-placeholder.png"
         x="-34"
         y="-34"
         width="68"
         height="68"
         preserveAspectRatio="xMidYMid slice"
-      />
+      /> -->
     </g>
 
     <circle class="family-node__border" r="34" :stroke="generationStroke" />
