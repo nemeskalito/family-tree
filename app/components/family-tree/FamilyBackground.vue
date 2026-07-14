@@ -17,7 +17,6 @@
   &__image {
     position: absolute;
     inset: -20px;
-    background-image: url('~/assets/images/ararat.jpg');
     background-size: cover;
     background-position: center;
     filter: blur(6px) brightness(0.55) saturate(0.8);
